@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a4499f7bf3aa7b46ac78d95225cf150, type: 3}
+  m_Name: 02_eng
+  m_EditorClassIdentifier: 
+  isOneSidedConversation: 0
+  description: 
+  messages:
+  - owner: Julia
+    message: Hey boss, can we talk?
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: 8a4e4dc1a37eb7f44b1bdc3d5439270b, type: 3}
+  - owner: Boss
+    message: Sure.
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: 3a6957072e51c474289756ef2fa6eba9, type: 3}
+  - owner: Julia
+    message: My daughter has a play in some minutes and I really wanted her to see
+      me there...
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: 8a4e4dc1a37eb7f44b1bdc3d5439270b, type: 3}
+  - owner: Boss
+    message: I understand, but you know how we  have been very busy lately.
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: 3a6957072e51c474289756ef2fa6eba9, type: 3}
+  - owner: Julia
+    message: There's nothing you can do? Please...
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: 8a4e4dc1a37eb7f44b1bdc3d5439270b, type: 3}
+  - owner: Boss
+    message: If you finish at least this part here and come earlier tomorrow, we
+      could talk.
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: 3a6957072e51c474289756ef2fa6eba9, type: 3}
+  - owner: Julia
+    message: That part? It would take a couple of hours!
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: 8a4e4dc1a37eb7f44b1bdc3d5439270b, type: 3}
+  - owner: Boss
+    message: Then you better get started! Come back here when you have the first
+      part finished.
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: 3a6957072e51c474289756ef2fa6eba9, type: 3}
+  - owner: Julia
+    message: Right... I better grab a cup of coffee.
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: 8a4e4dc1a37eb7f44b1bdc3d5439270b, type: 3}

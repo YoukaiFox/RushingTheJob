@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a4499f7bf3aa7b46ac78d95225cf150, type: 3}
+  m_Name: 01_eng
+  m_EditorClassIdentifier: 
+  description: 
+  messages:
+  - owner: Julia
+    message: Your play is happening today???
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: e19ea9db29aec304f8247456ed9531a8, type: 3}
+  - owner: Daughter
+    message: Yep. You forgot?
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: a1cea1dbd4656df4689f6730ff0e0c92, type: 3}
+  - owner: Julia
+    message: Sorry, I have been working so much lately...
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: e19ea9db29aec304f8247456ed9531a8, type: 3}
+  - owner: Daughter
+    message: You're coming, right? It would be amazing if you were here...
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: a1cea1dbd4656df4689f6730ff0e0c92, type: 3}
+  - owner: Julia
+    message: Of course I will! No way I'm missing it.
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: e19ea9db29aec304f8247456ed9531a8, type: 3}
+  - owner: Daughter
+    message: Yay!
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: a1cea1dbd4656df4689f6730ff0e0c92, type: 3}
+  - owner: Julia
+    message: I just need to talk to my boss to let me go early.
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: e19ea9db29aec304f8247456ed9531a8, type: 3}
+  - owner: Daughter
+    message: I'll be waiting for you!
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: a1cea1dbd4656df4689f6730ff0e0c92, type: 3}
+  - owner: Julia
+    message: Don't worry, I'll be there, honey. Bye bye!
+    leftOrRightBalloon: left
+    ownerPreview: {fileID: 21300000, guid: e19ea9db29aec304f8247456ed9531a8, type: 3}
+  - owner: Daughter
+    message: Bye!!!
+    leftOrRightBalloon: right
+    ownerPreview: {fileID: 21300000, guid: a1cea1dbd4656df4689f6730ff0e0c92, type: 3}

@@ -1,0 +1,15 @@
+Fonts:
+I pixel u by rodrigosrtz (https://www.dafont.com/pt/i-pixel-u.font)
+Pixellari by Zacchary Dempsey-Plante (https://www.dafont.com/pt/pixellari.font)
+
+Sound effects:
+"success_bell" by MattLeschuck at https://freesound.org/people/MattLeschuck/sounds/511484 (Edited)
+"Failure/wrong action" by GabrielAraujo at https://freesound.org/people/GabrielAraujo/sounds/242503
+"stamp post office mail" by frank_the_noise at https://freesound.org/people/frank_the_noise/sounds/160879 (Edited)
+"error 2" by lluise7 at https://freesound.org/people/lluiset7/sounds/141334
+"Keyboard typing numbers" by rar2k at https://freesound.org/people/rar2k/sounds/513574 (Edited)
+"Photocopier" by digifishmusic at https://freesound.org/people/digifishmusic/sounds/54730 (Edited)
+"Making a Copy" by cribbler at https://freesound.org/people/cribbler/sounds/377080 (Edited)
+"writing - pen 01" by Anthousai at https://freesound.org/people/Anthousai/sounds/337086 (Edited)
+"crumbling Paper" by Bash360 at https://freesound.org/people/Bash360/sounds/214854 (Edited)
+"Page Turn - Please Turn Over (PTO) - paper_turn_over" by flag2 at https://freesound.org/people/flag2/sounds/63318 (Edited)
