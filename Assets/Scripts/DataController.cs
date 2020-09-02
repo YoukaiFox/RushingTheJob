@@ -17,7 +17,8 @@ public class DataController : MonoBehaviour
     }
     private void Start() 
     {
-        StartCoroutine(StartGame());
+        DontDestroyOnLoad(gameObject);
+        UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
     }
     public void SetIsEnglish(bool set)
     {
@@ -31,10 +32,4 @@ public class DataController : MonoBehaviour
     }
     public bool GetIsEnglish() {return isInEnglish;}
     public bool GetGotGoodEnding() {return gotGoodEnding;}
-    private IEnumerator StartGame()
-    {
-        yield return new WaitForSeconds(3f);
-        DontDestroyOnLoad(gameObject);
-        UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
-    }
 }

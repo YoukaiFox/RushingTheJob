@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/OP_YoukaiFox/OP.unity
+    guid: 25477cf3c8439694daa1420efe3f0585
+  - enabled: 1
     path: Assets/Scenes/Permanent.unity
     guid: fbedae195d1556648940ff5b4ed7abbc
   - enabled: 1

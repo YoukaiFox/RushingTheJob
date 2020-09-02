@@ -676,8 +676,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Game Design\nArlan Silva\n\xC2ngelo Savioti (@MSavioti)\n\n\nStory\nArlan
-    Silva\n\xC2ngelo Savioti (@MSavioti)\n\n\nGraphics\nArlan Silva\n\n\nProgramming\n\xC2ngelo
+  m_text: "Game Design\nArlan Silva (@TR_Arlan)\n\xC2ngelo Savioti (@MSavioti)\n\n\nStory\nArlan
+    Silva (@TR_Arlan)\n\xC2ngelo Savioti (@MSavioti)\n\n\nGraphics\nArlan Silva (@TR_Arlan)\n\n\nProgramming\n\xC2ngelo
     Savioti (@MSavioti)\n\n\nMusic\n\"Talking Cute\" by Alex McCulloch\n\"Skate\"
     by Komiku\n\"Dreaming of You\" by Komiku\n\"Care Time\" by Loyalty Freak Music\n\"Mushrooms\"
     by Loyalty Freak Music\n\"Anarchobliss\" by Loyalty Freak Music\n\"Sweet Sun\"
@@ -696,7 +696,8 @@ MonoBehaviour:
     by freesound.org/people/kretopi\n\"steps\" by freesound.org/people/manuelaurreaf\n\"Multimedia
     button click 25\" obtained from https://www.zapsplat.com\r\n\"A4 paper notepad,
     thin page turn 5\" obtained from https://www.zapsplat.com\r\n\"steps on wood\"
-    by freesound.org/people/ssierra1202\n\n\nFonts:\r\nI pixel u by rodrigosrtz (https://www.dafont.com/pt/i-pixel-u.font)\r\nPixellari
+    by freesound.org/people/ssierra1202\n\"deerchaser\" by https://freesound.org/people/morgantj
+    (edited)\n\nFonts:\r\nI pixel u by rodrigosrtz (https://www.dafont.com/pt/i-pixel-u.font)\r\nPixellari
     by Zacchary Dempsey-Plante (https://www.dafont.com/pt/pixellari.font)\r\n\n\nSpecial
     Thanks\nMirna Mendon\xE7a @mmartista"
   m_isRightToLeft: 0
@@ -744,7 +745,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 164
+  m_firstOverflowCharacterIndex: 200
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -768,10 +769,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1154197282}
-    characterCount: 1937
+    characterCount: 2035
     spriteCount: 0
-    spaceCount: 201
-    wordCount: 281
+    spaceCount: 207
+    wordCount: 295
     linkCount: 0
     lineCount: 67
     pageCount: 1
