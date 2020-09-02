@@ -173,7 +173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nextSceneName: Permanent
   fillingSound: {fileID: 8300000, guid: e548ac3967a211646a7b2fb1fc051dd5, type: 3}
-  shishiOdoshiSound: {fileID: 8300000, guid: d162993b04cdbe24ba5ec1a3d000ffd1, type: 3}
+  shishiOdoshiSound: {fileID: 8300000, guid: 82a66d81a7bf8ed479a96f6bd7426932, type: 3}
   soundPlayer: {fileID: 126593722}
 --- !u!1 &126593721
 GameObject:
