@@ -1,2 +1,2 @@
 # RushingTheJob
-A short, but inspiring jam game.
+A game created for the 3ª GameDev (Sério) game jam.
