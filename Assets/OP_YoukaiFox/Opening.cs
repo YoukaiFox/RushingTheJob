@@ -43,7 +43,6 @@ public class Opening : MonoBehaviour
             yield return new WaitForSeconds(0.05f);
         }
 
-        yield return new WaitForSeconds(fillingSound.length);
         soundPlayer.PlayOneShot(shishiOdoshiSound);
         yield return new WaitForSeconds(0.05f);
         RemoveAlphas();
